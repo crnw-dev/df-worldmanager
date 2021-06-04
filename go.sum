@@ -48,10 +48,8 @@ github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGX
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/df-mc/dragonfly v0.0.4-0.20201017165647-aa4fe284fa40 h1:nG4DuCNpGJCmPwhDZVNJBCuN7y0LA3HRBGZaqbEjcg0=
-github.com/df-mc/dragonfly v0.0.4-0.20201017165647-aa4fe284fa40/go.mod h1:98gVkujDYmYyctBUADm2qRte2pUBiI866Q7D8ufu06Q=
-github.com/df-mc/dragonfly v0.0.5-0.20210508134322-ad4650c0628e h1:hlf/ZBaGtG84hKEYqKFMnOY/iedPDbG3Nd8pe0KCDho=
-github.com/df-mc/dragonfly v0.0.5-0.20210508134322-ad4650c0628e/go.mod h1:MoHjSZtUvfxLnc2hfHys2kp7/zOp/8R/I7+uzSasDsE=
+github.com/df-mc/dragonfly v0.0.6-0.20210601081938-97d307a5f533 h1:8RiQXAIY2BjBUJQ3rPdR+3RWBCOGMWFqHjXECN7FNvI=
+github.com/df-mc/dragonfly v0.0.6-0.20210601081938-97d307a5f533/go.mod h1:vc4ez5W80/XICnGcyjHfnf8Z99IIorJxJD+YAxgIrMc=
 github.com/df-mc/goleveldb v1.1.8 h1:XPzH9rlh8GvcKQOvnidbhx7uDIZ91l4q+t886ju5z1w=
 github.com/df-mc/goleveldb v1.1.8/go.mod h1:t9l/GXXTQ3Z5oBELqye1p0ItbGHN/vyNZeWBYfkXkSM=
 github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
