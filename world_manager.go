@@ -66,7 +66,9 @@ func (m *WorldManager) LoadWorld(folderName, worldName string, simulationDistanc
 	if err != nil {
 		return fmt.Errorf("error loading world: %v", err)
 	}
-	p.SetWorldName(worldName)
+	wrdsettings := p.Settings()
+	wrdsettings.Name = worldName
+	p.SaveSettings(wrdsettings)
 
 	w.Provider(p)
 	if _, ok := m.World(w.Name()); ok {
