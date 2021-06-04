@@ -1,4 +1,4 @@
-module github.com/emperials/df-worldmanager
+module github.com/crnw-dev/df-worldmanager
 
 go 1.13
 
